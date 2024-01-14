@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Stanly anasi @stanly08 on github
 - 👀 I’m interested in AI and machine learning
-- 🌱 I’m currently learning on ALX Africa to become a full stack engineer with specialization in python, c, javascript, HTML, CSS, Mongodb, and mySQL
-- 💞️ I’m looking to collaborate on simple shell project
+- 🌱 I’m currently learning on ALX Africa to become a full stack engineer with specialization in python, c, javascript, HTML, CSS, Mongodb, and mysql
 - 📫 How to reach me on twitter @anasi_stanly
 - I currently reside in Juja,Kiambu,Kenya.
 <!---
